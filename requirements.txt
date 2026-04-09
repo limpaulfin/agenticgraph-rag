@@ -1,0 +1,15 @@
+# HybridGraph-RAG Dependencies
+# Pinned from venv 2026-02-17
+
+sentence-transformers==5.2.2
+numpy==2.4.2
+tqdm==4.67.3
+networkx==3.6.1
+leidenalg==0.11.0
+python-igraph==1.0.0
+openai==2.21.0
+faiss-cpu==1.13.2
+spacy==3.8.11
+rapidfuzz==3.14.3
+python-Levenshtein==0.27.3
+cdlib==0.4.0
