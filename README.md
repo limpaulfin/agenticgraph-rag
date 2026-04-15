@@ -24,8 +24,13 @@ python src/main.py --task experiment --n 5 --datasets hotpotqa
   title     = {AgenticGraph-RAG: Multi-Hop QA via Graph-Augmented
                Retrieval and Adversarial Tool-Augmented Generation},
   author    = {Lam, Thanh-Phong and Tran, Viet-Tam and Nguyen, Huynh-Anh-Vu},
-  booktitle = {HybridAIMS Workshop at CAiSE 2026},
-  year      = {2026}
+  booktitle = {Proceedings of the 14th International Conference on Frontiers of
+               Intelligent Computing: Theory and Applications (FICTA 2026)},
+  series    = {Smart Innovation, Systems and Technologies},
+  publisher = {Springer},
+  address   = {London, UK},
+  year      = {2026},
+  note      = {To appear}
 }
 ```
 
